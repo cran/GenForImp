@@ -1,0 +1,11 @@
+77bc5c1d049a7a2ba5d62af8c345372c *DESCRIPTION
+22390ae284c06152092ec872d12a6806 *NAMESPACE
+3ada139557d89fc291de1837d6ba795a *R/ForImp.Mahala.R
+4ca785bbf53eac6cdc46c5f061831b89 *R/ForImp.PCA.R
+796d13070df84ad242fc7b316a86d4b8 *R/missing.gen.R
+1d06e0935cbc9d0584df4ed38f4ee37d *R/missing.gen0.R
+ea501e06bf010dae0e68cd0e3946acde *man/ForImp.Mahala.Rd
+4d17ddf76e174ef0161177cb7b9bf44f *man/ForImp.PCA.Rd
+16fd412501ddd6530beeaa97444d62c6 *man/GenForImp-package.Rd
+72e3732300dc29d9efaf73660035a3a0 *man/missing.gen.Rd
+9dab2bf71dc7353c1859e16dbcf68fa0 *man/missing.gen0.Rd
